@@ -1,3 +1,4 @@
+
 export enum WorkoutSplit {
   A = 'A',
   B = 'B',
@@ -46,4 +47,5 @@ export interface WorkoutPlan {
   summary: string;
   exercises: Exercise[];
   observations: string[];
+  loadAdjustmentAdvice: string; // Specific advice on weight management
 }
