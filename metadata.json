@@ -1,0 +1,5 @@
+{
+  "name": "SmartFit AI Trainer",
+  "description": "An intelligent workout generator that tracks your A/B/C split and adapts daily routines based on your goals and recovery needs.",
+  "requestFramePermissions": []
+}
